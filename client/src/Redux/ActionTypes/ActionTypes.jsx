@@ -1,0 +1,15 @@
+export const ADD_ITEM = "ADD_ITEM";
+export const GET_ITEMS = "GET_ITEMS";
+export const SELECTED_ITEM = "SELECTED_ITEM";
+export const REMOVE_ITEM = "REMOVE_ITEM";
+export const GET_ITEMS_FAIL = "GET_ITEMS_FAIL";
+export const ADD_ITEM_FAIL = "ADD_ITEM_FAIL";
+export const REMOVE_ITEM_FAIL = "REMOVE_ITEM_FAIL";
+export const SELECTED_ITEM_FAIL = "SELECTED_ITEM_FAIL";
+
+export const ADD_TO_CART = "ADD_TO_CART";
+export const ADD_TO_CART_FAIL = "ADD_TO_CART_FAIL";
+export const REMOVE_FROM_CART = "REMOVE_FROM_CART";
+export const REMOVE_FROM_CART_FAIL = "REMOVE_FROM_CART_FAIL";
+export const GET_CART_ITEMS = "GET_CART_ITEMS";
+export const GET_CART_ITEMS_FAIL = "GET_CART_ITEMS_FAIL";
